@@ -10,3 +10,6 @@ def gradientDescent():
 
 def costFunction():
   pass
+
+def main():
+  pass
